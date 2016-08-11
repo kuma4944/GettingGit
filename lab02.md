@@ -103,7 +103,7 @@ Fast-forward
 
 If we are all done with our `fancy_branch` we can delete it.
 ```console
-$ git branch -d fancy_branch
+$ git branch -D fancy_branch
 Deleted branch fancy_branch (was 835d39e).
 ```
 
